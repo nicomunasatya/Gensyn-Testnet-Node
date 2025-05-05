@@ -29,7 +29,8 @@ Python >=3.10 (for Mac, you will likely need to upgrade)
 ### Please answer 'Y' (or just press enter), N is provided as an alternative flow but isn't currently maintained.
 
  - Login
- - A browser window will pop open (you'll need to manually navigate to http://localhost:3000/ if you're on a VM).
+ - A browser window will pop open (you'll need to manually navigate to http://localhost:3000/ if you're on a VM) or http://YOUR_IP_VPS:3000/ 
+   if you're using VPS.
  - Click 'login'.
  - Login with your preferred method.
 
