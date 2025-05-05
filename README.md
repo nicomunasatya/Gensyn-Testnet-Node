@@ -20,6 +20,7 @@ OR
 - A100
 - H100
 - WITH
+- VPS 
 
 Python >=3.10 (for Mac, you will likely need to upgrade)
 
